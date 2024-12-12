@@ -5,7 +5,7 @@ import nltk
 from nltk.stem.lancaster import LancasterStemmer
 stammer = LancasterStemmer()
 
-with open("dataset.json") as file:
+with open("intents.json") as file:
     data = json.load(file)
 
 print(data)
