@@ -39,3 +39,13 @@ def predict_class(sentence):
     for r in results:
         return_list.append({'intent':classes[r[0]], 'probability':str(r[1])})
     return return_list
+
+def get_responce(intent_list,intent_json):
+    tag = intent_list[0]['intent']
+    list_of_intents = intent_json['intents']
+    for i in list_of_intents:
+        if i['tag'] == tag:
+            result = random.choice(i['responces'])
+            break
+    return result
+
