@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a287432e-a93c-483b-bddf-cf12fc39455f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EchoBot/chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/EchoBot/chatbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoBot/echobot_model.keras" beforeDir="false" afterPath="$PROJECT_DIR$/EchoBot/echobot_model.keras" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoBot/training_history.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/EchoBot/training_history.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.chatbot.executor": "Run",
     "Python.main.executor": "Run",
     "Python.new.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
