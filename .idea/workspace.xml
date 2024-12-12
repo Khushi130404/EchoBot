@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a287432e-a93c-483b-bddf-cf12fc39455f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EchoBot/chatbot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoBot/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EchoBot/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoBot/Scripts/pip3.12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EchoBot/Scripts/pip3.12.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoBot/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EchoBot/Scripts/pip3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoBot/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/EchoBot/new.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
     "Python.main.executor": "Run",
     "Python.new.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "NeuralNetwork"
+    "git-widget-placeholder": "ChatBot"
   }
 }]]></component>
   <component name="RunManager">
