@@ -12,3 +12,8 @@ This code is an implementation of a simple chatbot using TensorFlow, which is a 
 - chatbot.py : Main Python script for training and running the chatbot.
 - requirements.txt : List of required Python libraries.
 - words.pkl : Trained neural network model.
+
+## Library
+- TensorFlow for providing the machine learning framework.
+- NLTK for natural language processing tools.
+- Flask for simplifying web app deployment.
